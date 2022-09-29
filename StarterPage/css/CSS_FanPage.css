@@ -1,0 +1,37 @@
+body {
+    font-family: 'Freckle Face', cursive;
+}
+
+h1 {
+    color: orange;
+    font-weight: bold;
+    font-family: 'Bungee Spice', cursive;
+    }
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: gray;
+    }
+
+.recipes {
+    color:black;
+}
+
+li {
+    color: #ff6961;
+}
+
+a:hover {
+    color: #FE7F9C;
+}
+
+a {
+    color: green;
+}
